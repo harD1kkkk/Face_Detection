@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Face_Detection.props" />
-</Project>

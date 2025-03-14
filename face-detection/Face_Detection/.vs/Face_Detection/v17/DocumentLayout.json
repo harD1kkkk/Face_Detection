@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|c:\\users\\arthu\\source\\repos\\face_detection\\face_detection\\services\\faceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|solutionrelative:face_detection\\services\\faceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|c:\\users\\arthu\\source\\repos\\face_detection\\face_detection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|solutionrelative:face_detection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|c:\\users\\arthu\\source\\repos\\face_detection\\face_detection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|solutionrelative:face_detection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|c:\\users\\arthu\\source\\repos\\face_detection\\face_detection\\face_detection.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|solutionrelative:face_detection\\face_detection.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|c:\\users\\arthu\\source\\repos\\face_detection\\face_detection\\controllers\\facecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D064DE6-086D-4302-AAFD-D99621892906}|Face_Detection\\Face_Detection.csproj|solutionrelative:face_detection\\controllers\\facecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\appsettings.json",
+              "RelativeDocumentMoniker": "Face_Detection\\appsettings.json",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\appsettings.json",
+              "RelativeToolTip": "Face_Detection\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T15:51:21.127Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FaceService.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Services\\FaceService.cs",
+              "RelativeDocumentMoniker": "Face_Detection\\Services\\FaceService.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Services\\FaceService.cs",
+              "RelativeToolTip": "Face_Detection\\Services\\FaceService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:49:08.567Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Face_Detection.http",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Face_Detection.http",
+              "RelativeDocumentMoniker": "Face_Detection\\Face_Detection.http",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Face_Detection.http",
+              "RelativeToolTip": "Face_Detection\\Face_Detection.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-14T16:07:00.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Program.cs",
+              "RelativeDocumentMoniker": "Face_Detection\\Program.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Program.cs",
+              "RelativeToolTip": "Face_Detection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:51:18.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FaceController.cs",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Controllers\\FaceController.cs",
+              "RelativeDocumentMoniker": "Face_Detection\\Controllers\\FaceController.cs",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\Face_Detection\\Face_Detection\\Controllers\\FaceController.cs",
+              "RelativeToolTip": "Face_Detection\\Controllers\\FaceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:47:53.55Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 342,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2523,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
